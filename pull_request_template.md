@@ -1,13 +1,13 @@
-**1. Checklist before requesting a review**
+1. Checklist before requesting a review
 - [ ] Is Architecture/Code Solution approved?
 - [ ] Is Sonar Lint checked/ passed?
 - [ ] Is Code Standard checked?
       
-**2. Code changes description:**
+2. Code changes description:
 - Describe your changes here
 
-**3. Existing Issue**
+3. Existing Issue
 - [ ] Need to refactor
 
-**4. Ticket link**
+4. Ticket link
 - https://example.com/13758
